@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2> Hello, I'm the Litmus Bot <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://pbs.twimg.com/profile_images/1272548541827649536/P4-0iQen_400x400.jpg">
 
-<!--
-**litmusbot/litmusbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=litmusbot" alt="litmusBotViews" /> </p>
 
-Here are some ideas to get you started:
+Litmus is a toolset to do cloud-native chaos engineering. Litmus provides tools to orchestrate chaos on Kubernetes to help SREs find weaknesses in their deployments. SREs use Litmus to run chaos experiments initially in the staging environment and eventually in production to find bugs, vulnerabilities. Fixing the weaknesses leads to increased resilience of the system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![Gmail Badge](https://img.shields.io/badge/-litmusbot@mayadata.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:litmusbot@mayadata.io)](mailto:litmusbot@mayadata.io) [![Youtube Channel](https://img.shields.io/badge/-Litmus%20Chaos-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCa57PMqmz_j0wnteRa9nCaw)](https://www.youtube.com/channel/UCa57PMqmz_j0wnteRa9nCaw)
+
+## :computer: What the LitmusBot can help you learn
+* LitmusChaos Experiments
+* Kubernetes
+* Katacoda Scenarios
+
+
+## Tech Stack the LitmusBot loves
+ <img src = 'https://pbs.twimg.com/profile_images/1272548541827649536/P4-0iQen_400x400.jpg' height='30'/> <img src = 'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flinuxbsdos.com%2Fwp-content%2Fuploads%2F2015%2F12%2Fkubernetes-logo.png&f=1&nofb=1' width='30'/> <img src = 'https://image.flaticon.com/icons/svg/919/919851.svghttps://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.HdOb-vd2SQHAabvQ1DxXiAAAAA%26pid%3DApi&f=1' width='30'/>
+
+
+![Litmusbot's github stats](https://github-readme-stats.vercel.app/api?username=litmusbot&show_icons=true&hide=[%22issues%22])
