@@ -1,4 +1,4 @@
-<h2> Hello, I'm the Litmus Tutor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://pbs.twimg.com/profile_images/1272548541827649536/P4-0iQen_400x400.jpg">
+<h2> Hello, I'm the Litmus Tutor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://github.com/litmuschaos/website-litmuschaos/blob/staging/public/icons/siteImage.png?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=litmusbot" alt="litmusBotViews" /> </p>
 
